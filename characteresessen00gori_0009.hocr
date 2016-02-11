@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./characteresessen00gori_0009.png"; bbox 0 0 1975 3343; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 741 959 972 1004">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 741 959 972 1004">
+     <span class='ocr_line' id='line_1_1' title="bbox 741 959 972 1004; baseline -0.004 0"><span class='ocrx_word' id='word_1_1' title='bbox 741 959 972 1004; x_wconf 82' lang='lat' dir='ltr'>VIRO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 334 1172 1390 1213">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 334 1172 1390 1213">
+     <span class='ocr_line' id='line_1_2' title="bbox 334 1172 1390 1213; baseline 0.004 -4"><span class='ocrx_word' id='word_1_2' title='bbox 334 1173 773 1211; x_wconf 83' lang='lat' dir='ltr'>PERILLUSTRI</span> <span class='ocrx_word' id='word_1_3' title='bbox 809 1175 883 1211; x_wconf 79' lang='lat' dir='ltr'>Ac</span> <span class='ocrx_word' id='word_1_4' title='bbox 919 1172 1390 1213; x_wconf 77' lang='lat' dir='ltr'>CELEBERMMO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 402 1354 1333 1437">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 402 1354 1333 1437">
+     <span class='ocr_line' id='line_1_3' title="bbox 402 1354 1333 1437; baseline 0.001 -3"><span class='ocrx_word' id='word_1_5' title='bbox 402 1354 891 1436; x_wconf 72' lang='lat' dir='ltr'><strong>RossE&#39;RTo</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 953 1375 1333 1437; x_wconf 74' lang='lat' dir='ltr'>BROWN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 500 1610 1148 1653">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 500 1610 1148 1653">
+     <span class='ocr_line' id='line_1_4' title="bbox 500 1610 1148 1653; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 500 1610 636 1652; x_wconf 67' lang='lat' dir='ltr'>Mum-:1</span> <span class='ocrx_word' id='word_1_8' title='bbox 665 1622 890 1651; x_wconf 73' lang='lat' dir='ltr'><strong>nmnmuct</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 918 1610 1148 1653; x_wconf 61' lang='lat' dir='ltr'><strong>pumero</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 491 1799 1222 1843">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 491 1799 1222 1843">
+     <span class='ocr_line' id='line_1_5' title="bbox 491 1799 1222 1843; baseline 0.004 -3"><span class='ocrx_word' id='word_1_10' title='bbox 491 1799 684 1841; x_wconf 69' lang='lat' dir='ltr'><strong>Nnmzm</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 714 1814 955 1843; x_wconf 66' lang='lat' dir='ltr'><strong>scum-nou</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 983 1814 1222 1843; x_wconf 76' lang='lat' dir='ltr'><strong>smmmo</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 739 1997 983 2038">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 739 1997 983 2038">
+     <span class='ocr_line' id='line_1_6' title="bbox 739 1997 983 2038; baseline 0.008 -2"><span class='ocrx_word' id='word_1_13' title='bbox 739 1997 983 2038; x_wconf 75' lang='lat' dir='ltr'>SACRUM.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
